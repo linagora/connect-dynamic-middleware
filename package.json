@@ -1,0 +1,21 @@
+{
+  "name": "connect-dynamic-middleware",
+  "version": "0.1.0",
+  "description": "Change middleware on the fly in your connect/express applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://ci-openpaas.linagora.com/stash/scm/or/connect-dynamic-middleware.git"
+  },
+  "keywords": [
+    "express",
+    "connect",
+    "middleware",
+    "dynamic"
+  ],
+  "author": "Linagora Folks <mbailly@linagora.com>",
+  "license": "GPLv3"
+}
