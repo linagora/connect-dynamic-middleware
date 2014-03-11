@@ -47,7 +47,7 @@ to launch the test suite. For it to work, you'll need gjslint, and a Mongodb ser
 Licence
 -------
 
-GNU GPLv3
+MIT
 
 Others
 ------
