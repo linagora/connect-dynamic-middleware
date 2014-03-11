@@ -1,6 +1,6 @@
 {
   "name": "connect-dynamic-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Change middleware on the fly in your connect/express applications",
   "main": "index.js",
   "scripts": {
